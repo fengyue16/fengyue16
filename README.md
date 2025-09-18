@@ -2,9 +2,9 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning high school
 - 💞️ I’m looking to collaborate on github
-- 📫 How to reach me ...
+- 📫 How to reach me | mytiktok:@fengyue98
 - 😄 Pronouns: feng yue
-- ⚡ Fun fact: I am an introvert
+- ⚡ Fun fact: I'm an introvert
 
 <!---
 fengyue16/fengyue16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
